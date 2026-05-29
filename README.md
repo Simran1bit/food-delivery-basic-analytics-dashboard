@@ -1,5 +1,6 @@
 # 🍕Food Delivery Analytics Dashboard (Excel)
 
+
 ## 📌 Project Overview
 
 This project demonstrates the basic data analytics workflow using Microsoft Excel. The goal was to clean a messy food delivery dataset, perform business analysis, and create a simple dashboard to visualize key insights.
@@ -70,7 +71,6 @@ The dashboard includes:
 * Orders by Payment Method Chart
 * Average Rating by City Chart
 
-## Dashboard
 ![Dashboard](dashboard.png)
 
 ---
