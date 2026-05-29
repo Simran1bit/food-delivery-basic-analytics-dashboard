@@ -1,11 +1,12 @@
 # 🍕Food Delivery Analytics Dashboard (Excel)
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates the basic data analytics workflow using Microsoft Excel. The goal was to clean a messy food delivery dataset, perform business analysis, and create a simple dashboard to visualize key insights.
 
+---
 
-## Dataset Issues
+## 📌 Dataset Issues
 
 The raw dataset contained several data quality problems, including:
 
@@ -15,8 +16,9 @@ The raw dataset contained several data quality problems, including:
 * Incorrect data formats
 * Invalid dates
 
+---
 
-## Data Cleaning Performed
+## 📌 Data Cleaning Performed
 
 The following cleaning steps were completed:
 
@@ -27,8 +29,9 @@ The following cleaning steps were completed:
 * Handled invalid date entries
 * Converted the dataset into an Excel Table
 
+---
 
-## Analysis Performed
+## 📌 Analysis Performed
 
 The following business questions were answered:
 
@@ -39,8 +42,9 @@ The following business questions were answered:
 5. Which city has the lowest customer ratings?
 6. Is there a relationship between delivery time and ratings?
 
+---
 
-## Excel Skills Used
+## 📌 Excel Skills Used
 
 * Excel Tables
 * IF Function
@@ -53,8 +57,9 @@ The following business questions were answered:
 * Pivot Charts
 * Dashboard Creation
 
+---
 
-## Dashboard Components
+## 📌 Dashboard Components
 
 The dashboard includes:
 
@@ -65,19 +70,25 @@ The dashboard includes:
 * Orders by Payment Method Chart
 * Average Rating by City Chart
 
+## Dashboard
+![Dashboard](dashboard.png)
 
-## Key Insights
+---
+
+## 📌 Key Insights
 
 * Delhi generated the highest sales.
 * UPI was the most preferred payment method.
 * Chennai had the lowest average customer rating.
 * Longer delivery times were generally associated with lower ratings.
 
+---
 
-## Tools Used
+## 📌 Tools Used
 
 * Microsoft Excel
 
+---
 
 ## Project Type
 
